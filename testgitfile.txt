@@ -2,3 +2,9 @@ Thu Sep  3 06:48:39 PM IST 2026
 is a testfile
 $ This is a testfile
  is a testfile
+total 20
+drwxr-xr-x  3 root root 4096 Sep  3 18:59 .
+dr-xr-x---. 6 root root 4096 Sep  3 18:59 ..
+drwxr-xr-x  7 root root 4096 Sep  3 18:53 .git
+-rw-r--r--  1 root root   49 Sep  3 19:00 secondfile.txt
+-rw-r--r--  1 root root   82 Sep  3 18:51 testgitfile.txt
