@@ -1,5 +1,4 @@
 #!/usr/bin/bash
 
 ps -aux
-ls -ll
-date
+echo $"Nothing to be added"
